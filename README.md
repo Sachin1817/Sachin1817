@@ -1,7 +1,21 @@
-# Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sachin1817/Sachin1817/main/banner.png" alt="Sachin D Banner" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
+  <img src="https://komarev.com/normal-badge/?username=Sachin1817&color=yellow&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br/><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sachin+D!+👋;AI+Developer+%7C+Full+Stack+Developer;Final+Year+Computer+Science+Student" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sachin1817&theme=tokyonight&no-bg=true&margin-x=15&margin-y=10" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
@@ -85,14 +99,28 @@ I am a passionate **AI Developer** and **Full Stack Developer** in my final year
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachin1817&show_icons=true&theme=tokyonight&count_private=true" alt="Sachin's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin1817&layout=compact&theme=tokyonight" alt="Sachin's Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachin1817&show_icons=true&theme=tokyonight&count_private=true" alt="Sachin's GitHub Stats" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin1817&layout=compact&theme=tokyonight" alt="Sachin's Top Languages" height="190px" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin1817&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin1817&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 👾 Contribution Art
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sachin1817/Sachin1817/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
