@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sachin1817/Sachin1817/main/banner.png" alt="Sachin D Banner" width="100%" />
-</div>
-
-<br/>
 
 <p align="center">
   <img src="https://komarev.com/normal-badge/?username=Sachin1817&color=yellow&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
