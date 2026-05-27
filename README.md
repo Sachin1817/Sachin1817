@@ -4,19 +4,19 @@
 
 <br/>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/normal-badge/?username=Sachin1817&color=yellow&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sachin+D!+👋;AI+Developer+%7C+Full+Stack+Developer;Final+Year+Computer+Science+Student" alt="Typing SVG" />
-</div>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sachin+D!+👋%3BAI+Developer+%7C+Full+Stack+Developer%3BFinal+Year+Computer+Science+Student" alt="Typing SVG" />
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sachin1817&theme=tokyonight&no-bg=true&margin-x=15&margin-y=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sachin1817&theme=tokyonight&no-bg=true" alt="GitHub Trophies" />
   </a>
-</div>
+</p>
 
 ---
 
