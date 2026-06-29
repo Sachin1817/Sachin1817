@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I specialize in building intelligent, scalable, an
 | 📧 **Contact Email** | [sachindevraju49@gmail.com](mailto:sachindevraju49@gmail.com) |
 | 💼 **LinkedIn** | [Sachin D on LinkedIn](https://www.linkedin.com/in/sachin-d-657309319) |
 | 💻 **GitHub Portfolio** | [Sachin1817 on GitHub](https://github.com/Sachin1817) |
+| 🌐 **Live Portfolio** | [Live Portfolio Website](https://portfolio-lake-theta-71pdny6tao.vercel.app/) |
 
 ---
 
@@ -74,6 +75,7 @@ I am always open to discussing new projects, internship/full-time opportunities,
 - 📧 **Email:** [sachindevraju49@gmail.com](mailto:sachindevraju49@gmail.com)
 - 💼 **LinkedIn:** [Sachin D on LinkedIn](https://www.linkedin.com/in/sachin-d-657309319)
 - 💻 **GitHub:** [Sachin1817 on GitHub](https://github.com/Sachin1817)
+- 🌐 **Live Portfolio:** [portfolio-lake-theta-71pdny6tao.vercel.app](https://portfolio-lake-theta-71pdny6tao.vercel.app/)
 
 ---
 
