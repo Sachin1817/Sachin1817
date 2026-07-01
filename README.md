@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/sachin-d-657309319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/sachin_sachi__18?igsh=MWZwNHZ0YWhuODdzOQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://portfolio-lake-theta-71pdny6tao.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:sachindevaraj49@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sachindevaraju49@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -57,7 +57,7 @@ focus: Merging Artificial Intelligence with modern full-stack technologies
 | 🌱 **Learning** | Vector Databases, Advanced Prompt Engineering, System Design at Scale |
 | 🎙️ **Content** | Sharing my build journey and AI/full-stack projects |
 | 💬 **Ask Me About** | LLMs, RAG pipelines, REST API design, React + Tailwind UI, MERN/Django stacks |
-| 📫 **Reach Me** | [sachindeveraj48@gmail.com](mailto:sachindeveraj48@gmail.com) |
+| 📫 **Reach Me** | [sachindevaraju49@gmail.com](mailto:sachindevaraju49@gmail.com) |
 
 <br/>
 
@@ -160,7 +160,7 @@ focus: Merging Artificial Intelligence with modern full-stack technologies
 
 I'm always open to discussing new projects, internship/full-time opportunities, or talking about AI and web technologies. Feel free to reach out!
 
-<a href="mailto:sachindevaraj49@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sachindevaraju49@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sachin-d-657309319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Sachin1817"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://portfolio-lake-theta-71pdny6tao.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
