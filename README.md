@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <!-- Animated wave header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Sachin%20D%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Final%20Year%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
