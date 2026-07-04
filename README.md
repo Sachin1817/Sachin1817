@@ -40,13 +40,11 @@ education: Final Year Computer Science Student
 location: India
 focus: Merging Artificial Intelligence with modern full-stack technologies
 ```
-
 - 🧠 **AI-Driven Applications** — Experienced in using AI models and APIs to build intelligent software solutions
 - ⚙️ **Robust Backends** — Specialized in backend development, systems integration, and RESTful API engineering
 - 🎨 **Premium UI/UX** — Passionate about enhancing modern frontend design, responsiveness, and fluid user experiences
 - 📚 **Continuous Learning** — Actively studying Artificial Intelligence, Web Development, and System Design patterns
 - 🏗️ **Scalable Solutions** — Focused on building real-world, production-ready, and highly performant full-stack software
-
 <br/>
 
 ## 🔭 Currently Working On
