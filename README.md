@@ -38,7 +38,7 @@ name: Sachin D
 role: AI Developer & Full Stack Developer
 education: Final Year Computer Science Student
 location: India
-focus: Merging Artificial Intelligence with modern full-stack technologies
+focus: Merging Artificial Intelligence with modern full-stack technologies 
 ```
 - 🧠 **AI-Driven Applications** — Experienced in using AI models and APIs to build intelligent software solutions
 - ⚙️ **Robust Backends** — Specialized in backend development, systems integration, and RESTful API engineering
